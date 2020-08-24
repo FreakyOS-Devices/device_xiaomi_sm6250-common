@@ -245,3 +245,8 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_BOOT_JARS += \
     WfdCommon
+
+# GoogleCamera
+PRODUCT_PACKAGES += \
+    GoogleCamera
+
